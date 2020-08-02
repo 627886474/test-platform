@@ -10,7 +10,9 @@
 - [x] mock数据后台
 - [ ] 单接口请求Dubbo
 - [ ] 测试用例集执行Dubbo并生成测试报告
-
+### 项目启动
+1、mysql、redis服务
+2、导入sql中的eladmin.sql 以及platform.sql
 #### 公众号
 ![wechat](sql/wx.png)
 #### CSDN
